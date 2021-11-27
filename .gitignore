@@ -1,4 +1,11 @@
-
 Intermediate
 Saved
 DerivedDataCache
+!/Saved/
+
+# Mac OS X
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
