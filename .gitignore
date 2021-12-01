@@ -1,12 +1,14 @@
 Intermediate
-Saved/*
 DerivedDataCache
 !/Saved/
 Binaries
 Build/
-Saved/Config
 Saved/Logs
-
+Saved/Config/CrashReportClient
+Saved/Cooked
+Saved/Crashes
+Saved/EditorCooked
+Saved/StagedBuilds
 # Mac OS X
 .DS_Store
 .DS_Store?
