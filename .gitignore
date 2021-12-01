@@ -1,7 +1,11 @@
 Intermediate
-Saved
+Saved/*
 DerivedDataCache
 !/Saved/
+Binaries
+Build/
+Saved/Config
+Saved/Logs
 
 # Mac OS X
 .DS_Store
