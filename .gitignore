@@ -1,17 +1,13 @@
 Intermediate
 DerivedDataCache
-!/Saved/
 Binaries
 Build/
-Saved/Logs
-Saved/Config/CrashReportClient
-Saved/Cooked
-Saved/Crashes
-Saved/EditorCooked
-Saved/StagedBuilds
+Saved/*
 # Mac OS X
 .DS_Store
 .DS_Store?
 .AppleDouble
 .LSOverride
 ._*
+.idea
+.vs
