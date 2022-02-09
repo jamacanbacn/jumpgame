@@ -5,6 +5,8 @@ Builds on UE4.2.7
 
 The flip mechanic allows you to shift the camera to a new perspective
 
+Available on Itch https://jamacanbacn.itch.io/jumpdude
+
 Controls
 -------------
 Move with arrows  
